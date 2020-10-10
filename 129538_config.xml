@@ -1,0 +1,8 @@
+
+				<site base_url="http://www.dawnweiss.com/" store_into="\\208.112.101.252\c$\websites\129538km3\sitemap.xml" verbose="1" default_encoding="UTF-8">
+				<directory path="\\208.112.101.252\c$\websites\129538km3\" url="http://www.dawnweiss.com/" default_file=""/>
+				<filter action="drop" type="wildcard" pattern="*~"/>
+				<filter action="drop" type="regexp" pattern="/\.[^/]*"/>
+			
+				</site>
+				
