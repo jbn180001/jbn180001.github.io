@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<flash_parameters>
+    <preferences>
+        <global>
+            <basic_property movieWidth="650" movieHeight="550" html_title="" loadStyle="Pie" startAutoPlay="true" backgroundColor="0x808080" anvsoftMenu="false" hideAdobeMenu="false" photoDynamicShow="false" enableURL="true" transitionArray=""/>
+            <title_property photoTitleColor="0x000080" photoTitleSize="11" photoTitleFont="Verdana"/>
+            <music_property path="" stream="true" loop="true"/>
+            <photo_property topPadding="4" bottomPadding="28" leftPadding="115" rightPadding="4" photoBorder="false" photoBorderSize="1" photoBorderColor="0xcccccc"/>
+            <button_property buttonColor="0x000080"/>
+            <properties enable="true" backgroundColor="0xc0c0c0" backgroundAlpha="30" cssText="a:link{text-decoration: underline;} a:hover{color:#ff0000; text-decoration: none;} a:active{color:#0000ff;text-decoration: none;} .blue {color:#0000ff; font-size:15px; font-style:italic; text-decoration: underline;} .body{color:#ff5500;font-size:20px;}" align="bottom"/>
+        </global>
+        <thumbnail>
+            <basic_property thumbnailWidth="50" thumbnailHeight="40" showBorder="false" borderColor="0xffffff" align="left" rowCount="2" thumbnailSpacing="5"/>
+            <dropShadow_property shadowColor="0x666666" shadowTransparency="20" shadowSize="0" shadowHoverSize="2"/>
+        </thumbnail>
+    </preferences>
+    <album>
+        <slide jpegURL="thumbs/t_0001.jpg" d_URL="slides/p_0001.jpg" transition="29" panzoom="1" URLTarget="0" phototime="3" url="http://www.dawnweiss.com" title="Dawn Weiss"/>
+        <slide jpegURL="thumbs/t_0002.jpg" d_URL="slides/p_0002.jpg" transition="29" panzoom="1" URLTarget="0" phototime="3" url="http://www.dawnweiss.com" title="Nancy Sinatra with Dawn Weiss 1970"/>
+        <slide jpegURL="thumbs/t_0003.jpg" d_URL="slides/p_0003.jpg" transition="29" panzoom="1" URLTarget="0" phototime="3" url="http://www.dawnweiss.com" title="Weiss Family Woodwinds: Abraham, Dawn and David Weiss"/>
+        <slide jpegURL="thumbs/t_0004.jpg" d_URL="slides/p_0004.jpg" transition="29" panzoom="1" URLTarget="0" phototime="3" url="http://www.dawnweiss.com" title=""/>
+        <slide jpegURL="thumbs/t_0005.jpg" d_URL="slides/p_0005.jpg" transition="29" panzoom="1" URLTarget="0" phototime="3" url="http://www.dawnweiss.com" title="Dawn Weiss with Jon Bunce"/>
+        <slide jpegURL="thumbs/t_0006.jpg" d_URL="slides/p_0006.jpg" transition="29" panzoom="1" URLTarget="0" phototime="3" url="http://www.dawnweiss.com" title="Weiss with Yoshinori Naka Consul General Nagai&apos;s residence"/>
+        <slide jpegURL="thumbs/t_0007.jpg" d_URL="slides/p_0007.jpg" transition="29" panzoom="1" URLTarget="0" phototime="3" url="http://www.dawnweiss.com" title="Duets with Consul General Nagai"/>
+        <slide jpegURL="thumbs/t_0008.jpg" d_URL="slides/p_0008.jpg" transition="29" panzoom="1" URLTarget="0" phototime="3" url="http://www.dawnweiss.com" title="David and  Dawn Weiss, with Ivan Shulman, Conductor"/>
+        <slide jpegURL="thumbs/t_0009.jpg" d_URL="slides/p_0009.jpg" transition="29" panzoom="1" URLTarget="0" phototime="3" url="http://www.dawnweiss.com" title="Elizabeth Rowe as a student "/>
+        <slide jpegURL="thumbs/t_0010.jpg" d_URL="slides/p_0010.jpg" transition="29" panzoom="1" URLTarget="0" phototime="3" url="http://www.dawnweiss.com" title="With the LA Doctors Symphony Orchestra, David Weiss conducting"/>
+        <slide jpegURL="thumbs/t_0011.jpg" d_URL="slides/p_0011.jpg" transition="29" panzoom="1" URLTarget="0" phototime="3" url="http://www.dawnweiss.com" title="Apo Hsu, Conductor with Dawn Weiss, Jennifer Craig"/>
+        <slide jpegURL="thumbs/t_0012.jpg" d_URL="slides/p_0012.jpg" transition="29" panzoom="1" URLTarget="0" phototime="3" url="http://www.dawnweiss.com" title="Dawn Weiss"/>
+        <slide jpegURL="thumbs/t_0013.jpg" d_URL="slides/p_0013.jpg" transition="29" panzoom="1" URLTarget="0" phototime="3" url="http://www.dawnweiss.com" title="&quot;Feathers&quot;: Luciana Proano, Dawn Weiss, Lori Presthus"/>
+        <slide jpegURL="thumbs/t_0014.jpg" d_URL="slides/p_0014.jpg" transition="29" panzoom="1" URLTarget="0" phototime="3" url="http://www.dawnweiss.com" title="&quot;Feathers&quot;"/>
+        <slide jpegURL="thumbs/t_0015.jpg" d_URL="slides/p_0015.jpg" transition="29" panzoom="1" URLTarget="0" phototime="3" url="http://www.dawnweiss.com" title="&quot;Feathers&quot;"/>
+        <slide jpegURL="thumbs/t_0016.jpg" d_URL="slides/p_0016.jpg" transition="29" panzoom="1" URLTarget="0" phototime="3" url="http://www.dawnweiss.com" title="Michael Allen Harrison and Dawn Weiss"/>
+        <slide jpegURL="thumbs/t_0017.jpg" d_URL="slides/p_0017.jpg" transition="29" panzoom="1" URLTarget="0" phototime="3" url="http://www.dawnweiss.com" title="Michael Allen Harrison, Weiss, Fred Korman"/>
+        <slide jpegURL="thumbs/t_0018.jpg" d_URL="slides/p_0018.jpg" transition="29" panzoom="1" URLTarget="0" phototime="3" url="http://www.dawnweiss.com" title="James Galway and Dawn Weiss"/>
+        <slide jpegURL="thumbs/t_0019.jpg" d_URL="slides/p_0019.jpg" transition="29" panzoom="1" URLTarget="0" phototime="3" url="http://www.dawnweiss.com" title="Concert Day"/>
+        <slide jpegURL="thumbs/t_0020.jpg" d_URL="slides/p_0020.jpg" transition="29" panzoom="1" URLTarget="0" phototime="3" url="http://www.dawnweiss.com" title="Arlene Schnitzer Concert Hall "/>
+        <slide jpegURL="thumbs/t_0021.jpg" d_URL="slides/p_0021.jpg" transition="29" panzoom="1" URLTarget="0" phototime="3" url="http://www.dawnweiss.com" title="John Mery"/>
+    </album>
+</flash_parameters>
